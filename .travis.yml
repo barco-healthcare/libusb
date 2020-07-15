@@ -43,7 +43,6 @@ addons:
 
 
 install:
-  - export BARCOHC_BIN=https://${BIN_USER}:${BIN_PASSWORD}@barcohc.jfrog.io/barcohc
 
   # Install conan
   - |
